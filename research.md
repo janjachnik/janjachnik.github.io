@@ -10,7 +10,7 @@ My main research focus is on real-time scene understanding from monocular vision
 
 *Jan Jachnik, Dan B Goldman, Linjie Luo, Andrew J. Davison*<br>
 Interactive 3D Face Stylization Using Sculptural Abstraction<br>
-arXiv:1502.01954 \[cs.GR\]) 2015<br>
+arXiv:1502.01954 \[cs.GR\] 2015<br>
 [Project page](http://wp.doc.ic.ac.uk/robotvision/project/face-stylization/)
 
 *Jan Jachnik, Richard A. Newcombe, Andrew J. Davison*<br>
