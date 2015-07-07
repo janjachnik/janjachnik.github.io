@@ -60,4 +60,8 @@
       })();
     </script>
     {% endif %}
+    
+    {% if site.include_mathjax %}
+      {% include mathjax.html %}
+    {% endif %}
 </head>
