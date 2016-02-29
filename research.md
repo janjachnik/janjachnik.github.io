@@ -6,7 +6,7 @@ permalink: /research/
 
 My main research focus is on real-time scene understanding from monocular vision. I'm mostly interested in dense 3D reconstruction and lighting estimation with applications in robotics and augmented/mixed reality.
 
-###Papers and Publications###
+### Papers and Publications ###
 
 *Jan Jachnik, Dan B Goldman, Linjie Luo, Andrew J. Davison*<br>
 Interactive 3D Face Stylization Using Sculptural Abstraction<br>
