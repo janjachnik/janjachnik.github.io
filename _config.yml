@@ -47,7 +47,6 @@ share_hackernews: false
 
 # Build settings
 permalink:    pretty
-paginate:     3
 sass:
   compressed: true
 gems:
