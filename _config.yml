@@ -4,7 +4,7 @@ email:       sayhello@janjachnik.com
 author:      Jan Jachnik
 description: ""
 baseurl:     ""
-url:         "http://www.janjachnik.com"
+url:         "https://janjachnik.github.io"
 
 # Google analytics
 google_analytics:
