@@ -19,12 +19,12 @@ include_mathjax:    true
 disqus_shortname:
 
 # Social icons
-show_social_icons: false
-github_username:
+show_social_icons: true
+github_username: janjachnik
 stackoverflow_id:
 twitter_username:
 google_plus_id:
-linkedin_username:
+linkedin_username: janjachnik
 angellist_username:
 bitcoin_url:
 paypal_url:
