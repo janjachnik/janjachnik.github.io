@@ -19,7 +19,7 @@ include_mathjax:    true
 disqus_shortname:
 
 # Social icons
-show_social_icons: true
+show_social_icons: false
 github_username: janjachnik
 stackoverflow_id:
 twitter_username:
