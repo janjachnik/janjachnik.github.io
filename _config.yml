@@ -20,11 +20,11 @@ disqus_shortname:
 
 # Social icons
 show_social_icons: false
-github_username:
+github_username: janjachnik
 stackoverflow_id:
 twitter_username:
 google_plus_id:
-linkedin_username:
+linkedin_username: janjachnik
 angellist_username:
 bitcoin_url:
 paypal_url:
@@ -49,5 +49,13 @@ permalink:    pretty
 paginate: 5
 sass:
   compressed: true
-gems:
+plugins:
   - jekyll-paginate
+
+exclude:
+ - Gemfile
+ - Gemfile.lock
+ - vendor
+ - LICENSE.txt
+ - .gitignore
+ - .bundle
