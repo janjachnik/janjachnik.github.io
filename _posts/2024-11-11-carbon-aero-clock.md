@@ -13,4 +13,4 @@ I'm really pleased with the minimal design:
 
 The central hub is 3D printed, mounts the clock mechanism and gears, and includes 8 spoke holes required to mount it into the rim. 
 
-Enhanced aerodynamics and wind-tunnel testing don't seem to make time go any faser, though.
+Enhanced aerodynamics and wind-tunnel testing don't seem to make time go any faster, though.
