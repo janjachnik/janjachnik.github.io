@@ -48,5 +48,13 @@ share_hackernews: false
 permalink:    pretty
 sass:
   compressed: true
-gems:
+plugins:
   - jekyll-paginate
+
+exclude:
+ - Gemfile
+ - Gemfile.lock
+ - vendor
+ - LICENSE.txt
+ - .gitignore
+ - .bundle
